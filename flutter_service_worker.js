@@ -3,14 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "0c4043135cab032682d922acb874236c",
-"assets/AssetManifest.bin.json": "37fcb39ba83424bc75440c3bbc30949d",
-"assets/AssetManifest.json": "78aa96cba3616d8617a797c6ae53cf47",
+const RESOURCES = {"assets/AssetManifest.bin": "727862e282e3e45025db2ff3f481f07e",
+"assets/AssetManifest.bin.json": "60b848bb87919de8c2eeb54100100a89",
+"assets/AssetManifest.json": "f2f4577330080f25c434da37e83ba2eb",
 "assets/assets/backgroun2.png": "eb769215bbade2c5913b57fe41bc22bc",
 "assets/assets/background.jpg": "bf6fc1fbeb41343eff6aed93e8e64413",
 "assets/assets/bg.png": "471ab04a517a061e6c7c545d23fe9faf",
 "assets/assets/bgTop.png": "0bd63a9ce7265085a7f45c0831176d39",
 "assets/assets/bgTopAlt.png": "dd4530262e72ee5f2b6f00c1d308d243",
+"assets/assets/bgTopAlt2-min.png": "df32c8ab5d8715d9164c121b37db9282",
 "assets/assets/bgTopAlt2.png": "0057ea8c87fca6e450ed20c4dcba7de2",
 "assets/assets/bg_img_2.png": "8257ef89b2dfeab767578260965a7e2d",
 "assets/assets/crown.png": "c9f5e4518039043d511f43fe7a606fa8",
@@ -70,7 +71,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "0c4043135cab032682d922acb874236c
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "b46f88cd25dc06c80cf30f3c31ff5e59",
 "/": "b46f88cd25dc06c80cf30f3c31ff5e59",
-"main.dart.js": "9e7d61aba30901e854511e73b7723031",
+"main.dart.js": "89aea73ca9f4ab46e957870aca16aab0",
 "manifest.json": "e4d81545647a1501209c5a5bca1746e5",
 "version.json": "88ed21f24f83390b119e9546d549cbb8"};
 // The application shell files that are downloaded before a service worker can
